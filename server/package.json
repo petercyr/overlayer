@@ -1,0 +1,11 @@
+{
+  "name": "overlayer",
+  "version": "0.0.1",
+  "description": "Local app to build custom overlays",
+  "dependencies": {
+    "express": "^4.10.2",
+    "lodash": "^4.14.1",
+    "socket.io": "^1.4.8",
+    "watchr": "^2.6.0"
+  }
+}
